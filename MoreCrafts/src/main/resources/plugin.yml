@@ -1,0 +1,4 @@
+name: MoreCrafts
+version: '${project.version}'
+main: org.test.morecrafts.MoreCrafts
+api-version: '1.21'
